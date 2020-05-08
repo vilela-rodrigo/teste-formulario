@@ -1,4 +1,4 @@
-<footer>
+<footer class="container-fluid bg-dark text-white mt-4 p-3 fixed-bottom">
 <p>Rodapé</p>
 
 </footer>
